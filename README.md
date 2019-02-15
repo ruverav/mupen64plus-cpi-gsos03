@@ -1,5 +1,7 @@
 ## Mupen64plus emulator for GameShell OS 0.3
 
+### WARNING: This is a work in progress. Operation is not guaranteed.
+
 ### How to download
 
 1- Connect through ssh to your GameShell and run the following command:
@@ -29,9 +31,9 @@ chmod +x install.sh
 ./install.sh
 ```
 
-3- Reload the launcher ("Reload IU" option).
+3- Reload the launcher (`Reload UI` option).
 
-4- Put your roms with .z64 extension inside `/home/cpi/games/N64`.
+4- Put your roms with `.z64` extension inside `/home/cpi/games/N64`.
 
 5- Go to "Retro Games" and you will see a new option "N64". Go inside.
 
